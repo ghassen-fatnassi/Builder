@@ -6,11 +6,16 @@ This project aims to automate the process of model development, testing, and pre
 
 ## Folder Structure 📂
 
+
 📁 Modular
-|__ 📁 data # Directory for storing data
-|__ 📁 scripts # Directory for storing scripts
-|__ 📁 models # Directory for storing trained models
-|__ 📄 README.md # Project overview and instructions
+
+|__ 📁 data       # Directory for storing data
+
+|__ 📁 scripts    # Directory for storing scripts
+
+|__ 📁 models     # Directory for storing trained models
+
+|__ 📄 README.md  # Project overview and instructions
 
 
 ## Usage Instructions ℹ️
